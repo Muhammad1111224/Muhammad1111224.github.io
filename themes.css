@@ -8,16 +8,16 @@ body {
 body[theme=custom] {
     --inputbg: #3c096c;
     --inputborder: #5a189a;
-    --uibg: #240046;
+    --uibg: #004b00;
     --textcolor: #fff;
-    --bg: #10002b;
+    --bg: #002b00;
 }
 body[theme=main] {
     --inputbg: #3c096c;
     --inputborder: #5a189a;
-    --uibg: #240046;
+    --uibg: #004b00;
     --textcolor: #fff;
-    --bg: #10002b;
+    --bg: #002b00;
 }
 body[theme=light] {
     --inputbg: #bbbbbb;
